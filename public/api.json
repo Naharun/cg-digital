@@ -1,0 +1,42 @@
+[
+    {
+        "id": "1",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWIQApa6nhPB00RdulJEYpyqHKG8PKzJCqW0_F0pqtgDUhC1HrkrNhR78Bg&s",
+        "name":"CG Meridia 75'' 4k UHD Smart TV ...",
+        "rating": 4,
+        "coin": 1270,
+        "percent": "-15%",
+        "money": "1,89,590",
+        "crossMoney":"2,40,490"
+    },
+    {
+        "id": "2",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWIQApa6nhPB00RdulJEYpyqHKG8PKzJCqW0_F0pqtgDUhC1HrkrNhR78Bg&s",
+        "name":"TCL 65'' 4k UHD Android TV",
+        "rating": 4,
+        "coin": 1270,
+        "percent": "-20%",
+        "money": "4,59,30",
+        "crossMoney":"2,40,490"
+    },
+    {
+        "id": "3",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWIQApa6nhPB00RdulJEYpyqHKG8PKzJCqW0_F0pqtgDUhC1HrkrNhR78Bg&s",
+        "name":"LG 55'' OLED 4k TV",
+        "rating": 4,
+        "coin": 1270,
+        "percent": "-30%",
+        "money": "2,89,590",
+        "crossMoney":"2,40,490"
+    },
+    {
+        "id": "4",
+        "img":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsWIQApa6nhPB00RdulJEYpyqHKG8PKzJCqW0_F0pqtgDUhC1HrkrNhR78Bg&s",
+        "name":"CG Meridia 75'' 4k UHD Smart TV ...",
+        "rating": 4,
+        "coin": 1270,
+        "percent": "-15%",
+        "money": "1,89,590",
+        "crossMoney":"2,40,490"
+    }
+]
